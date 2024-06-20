@@ -1,4 +1,4 @@
-ROUND((B1-A1)*24*60,0)
+# ROUND((B1-A1)*24*60,0)
 
 
 Solution for the Interested Party Document failure alert
