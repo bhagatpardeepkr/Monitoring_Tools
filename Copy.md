@@ -1,3 +1,28 @@
+
+
+
+Search: Start with a search that defines the event you want to be alerted about. Run a search query in the search bar to find the event you're interested in.
+
+Save As Alert: Once your search is showing the results you want to trigger an alert for, click the 'Save As' button above the search results, and then click 'Alert'.
+
+Configure Alert: A dialog box will open, allowing you to set the various options for the alert. Here you can specify the alert type (real-time or scheduled), trigger conditions (like number of results, specific values, etc.), throttling options (to limit retriggering of alerts), and actions (like send email, run script, etc.).
+
+Save: Once you've configured the alert options as needed, click 'Save' to create the alert.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Aks access
 Grafana access in cyberark
 Github access
