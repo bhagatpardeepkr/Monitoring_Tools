@@ -1,3 +1,6 @@
+ROUND((B1-A1)*24*60,0)
+
+
 Solution for the Interested Party Document failure alert
 The Interested Party Document is a document that allows the account owner or an eligible signer to share their account information with a third party, such as a CPA. To generate this document, several services are involved, such as GNA Accounts Service, Contacts REST, EngageOne, Printer Services, and E-sign Services. Sometimes, the document generation may fail due to various reasons, such as incomplete or missing data, service outages, printing or e-sign errors, etc. In this case, an alert should be triggered to notify the relevant team or person to investigate and resolve the issue.
 To create an alert for the Interested Party Document failure, the following steps are suggested:
