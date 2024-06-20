@@ -1,3 +1,9 @@
+Aks access
+Grafana access in cyberark
+Github access
+
+
+
 # ROUND((B1-A1)*24*60,0)
 
 
