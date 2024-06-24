@@ -1,3 +1,28 @@
+Steps to follow
+•	Step 1: Verify the data source connection
+The first step is to check if the data source that feeds the data to the Grafana dashboard is connected and working properly. You can do this by going to the data source settings in Grafana and clicking on the "Test" button. If the connection is successful, you will see a green message saying "Data source is working". If the connection fails, you will see a red message with an error code and a possible reason for the failure. You can then try to fix the connection issue by following the suggestions in the error message or contacting the data source provider.
+•	Step 2: Check the data source query
+The next step is to check if the data source query that fetches the data from the data source is correct and valid. You can do this by going to the panel settings in Grafana and clicking on the "Query inspector" button. This will show you the query that is sent to the data source and the response that is received. You can then compare the query and the response with the expected results and see if there are any discrepancies or errors. You can also try to modify the query parameters or filters and see if the response changes accordingly. If the query is incorrect or invalid, you can correct it by following the query syntax and documentation of the data source.
+•	Step 3: Refresh the dashboard
+•	The final step is to refresh the dashboard and see if the data is updated and displayed correctly. You can do this by clicking on the "Refresh dashboard" button in Grafana or by setting a refresh interval in the dashboard settings. If the data is still not feeding into the dashboard, you may need to clear the browser cache or restart the Grafana server. If the problem persists, you can contact the Grafana support team or the data source provider for further assistance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
