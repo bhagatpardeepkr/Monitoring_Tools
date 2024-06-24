@@ -1,3 +1,7 @@
+
+
+systemctl status fits-mq-metrics-collector. 
+
 Steps to follow
 •	Step 1: Verify the data source connection
 The first step is to check if the data source that feeds the data to the Grafana dashboard is connected and working properly. You can do this by going to the data source settings in Grafana and clicking on the "Test" button. If the connection is successful, you will see a green message saying "Data source is working". If the connection fails, you will see a red message with an error code and a possible reason for the failure. You can then try to fix the connection issue by following the suggestions in the error message or contacting the data source provider.
