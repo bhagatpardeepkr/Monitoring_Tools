@@ -1,3 +1,23 @@
+
+
+
+First ticket :- 
+
+Mark this Jira as done, as the user seems to be inactive. Please feel free to reopen the Jira if you still need any assistance with this. We are happy to help
+
+
+-------
+
+2nd :- 
+
+As discussed over the team meeting, no queries are pending for this Jira, so I am marking this Jira as resolved
+
+
+
+
+
+
+
 Subject: Team Roster for July - Attached
 
 Dear [Manager's Name],
