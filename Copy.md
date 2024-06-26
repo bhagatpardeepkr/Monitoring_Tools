@@ -1,4 +1,20 @@
+Subject: Team Roster for July - Attached
 
+Dear [Manager's Name],
+
+Hope this email finds you well.
+
+As discussed, please find attached the team roster for July. The roster outlines the shifts/assignments for each team member to ensure smooth operations for the upcoming month.
+
+I kindly ask that you review it at your earliest convenience and provide any necessary feedback or updates you may have. If everything is in order, I will proceed to disseminate this to the team so that everyone is aware of their schedules.
+
+Please do not hesitate to let me know if anything requires changes or further clarification.
+
+Thank you for your attention to this matter.
+
+Best Regards,
+
+[Your Name]
 
 systemctl status fits-mq-metrics-collector. 
 
