@@ -1,3 +1,7 @@
+
+
+kubectl describe pod <pod-name> -n <namespace-name>
+
 The solutions for each of these factors may vary depending on the specific situation, but some general recommendations are:
 •	Ensure that OneAgent has the required permissions and resources to run on the kubernetes node and the pod, such as the appropriate service account, role, role binding, daemon set, and resource limits and requests.
 •	Check and adjust the configurations and settings on the kubernetes node and the pod that may affect OneAgent injection, such as the pod security policy, the container runtime, the init containers, the environment variables, the labels, and the annotations.
