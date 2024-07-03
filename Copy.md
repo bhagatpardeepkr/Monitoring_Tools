@@ -1,4 +1,4 @@
-
+The reason of getting the same message on all pods in dynatrace is that dynatrace does not detect the oneagent installation on the kubernetes node automatically. Dynatrace relies on a label called oneagent.dynatrace.com/install to identify the nodes that have the oneagent installed. If this label is missing or set to false, dynatrace will assume that the node is not fully monitored and show the message on all pods running on that node
 
 kubectl describe pod <pod-name> -n <namespace-name>
 
