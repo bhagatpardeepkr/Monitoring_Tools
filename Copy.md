@@ -1,3 +1,62 @@
+Kubernetes cluster filter
+The Kubernetes cluster filter is a built-in filter that is available in the Dynatrace UI. It allows users to select one or more Kubernetes clusters from a drop-down list and view the data and metrics of the selected clusters. The Kubernetes cluster filter can be applied to various dashboards, charts, and reports in Dynatrace. For example, users can use the Kubernetes cluster filter to view the cluster overview, the cluster health, the cluster events, the cluster nodes, the cluster pods, the cluster services, and the cluster namespaces.
+
+K8s cluster name filter tag
+
+The K8s cluster name filter tag is a custom filter tag that is created by the user. It allows users to assign a name to a Kubernetes cluster and use it as a filter criterion. The K8s cluster name filter tag can be applied to any entity that is related to the Kubernetes cluster, such as hosts, processes, services, applications, and custom devices. For example, users can use the K8s cluster name filter tag to view the performance, availability, and dependencies of the services that are running on a specific Kubernetes cluster.
+
+
+Difference between the two filters
+
+•	The Kubernetes cluster filter is a built-in filter that is available in the Dynatrace UI, while the K8s cluster name filter tag is a custom filter tag that is created by the user.
+
+•	The Kubernetes cluster filter can only be applied to the data and metrics of Kubernetes clusters, while the K8s cluster name filter tag can be applied to any entity that is related to the Kubernetes cluster.
+
+•	The Kubernetes cluster filter can only select one or more Kubernetes clusters from a drop-down list, while the K8s cluster name filter tag can assign any name to a Kubernetes cluster and use it as a filter criterion.
+
+•	The Kubernetes cluster filter can be used to view the cluster-level information, such as the cluster overview, the cluster health, the cluster events, the cluster nodes, the cluster pods, the cluster services, and the cluster namespaces, while the K8s cluster name filter tag can be used to view the entity-level information, such as the performance, availability, and dependencies of the services that are running on a specific Kubernetes cluster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The reason of getting the same message on all pods in dynatrace is that dynatrace does not detect the oneagent installation on the kubernetes node automatically. Dynatrace relies on a label called oneagent.dynatrace.com/install to identify the nodes that have the oneagent installed. If this label is missing or set to false, dynatrace will assume that the node is not fully monitored and show the message on all pods running on that node
 
 kubectl describe pod <pod-name> -n <namespace-name>
