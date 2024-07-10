@@ -1,2 +1,1 @@
-index=_internal log_level=ERROR component=sendemail
-| sendemail to="yourtestaddress@email.com" subject="Test" message="Test"
+Hello Team, I have created a sheet to consolidate all work-related links/URLs. Please input all links into this document, and add remarks to facilitate easy searching using Ctrl+F.
