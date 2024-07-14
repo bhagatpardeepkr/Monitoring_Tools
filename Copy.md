@@ -1,1 +1,9 @@
-Hello Team, I have created a sheet to consolidate all work-related links/URLs. Please input all links into this document, and add remarks to facilitate easy searching using Ctrl+F.
+Incorrect Configuration: This is one of the most common issues. If the Dynatrace OneAgent is not properly installed or configured on your servers, it may not be able to monitor your applications and services effectively.
+
+Networking Issues: If your servers are behind a firewall, or if there are any network connectivity issues between your servers and Dynatrace, it may prevent the OneAgent from sending monitoring data to Dynatrace.
+
+Permission Issues: The OneAgent needs certain permissions to be able to monitor applications and services. If it doesn't have the necessary permissions, you will not be able to see the services in Dynatrace.
+
+Unsupported Technology: Dynatrace supports multiple technologies for application and service monitoring. If your applications/services are built on a technology not supported by Dynatrace, it won't be able to monitor them.
+
+Application Inactivity: If an application/service hasn't generated any load for a certain time period, it will not appear in the Dynatrace interface.
