@@ -1,4 +1,4 @@
-
+Our CD tools team doesn't raise any Jira issues for the Network team. Therefore, please raise the Jira issue with the Network Engineering team. If they require any assistance or details from us, we will be more than happy to help
 
 After checking, I noticed that the data is not available on Graphite as well. This is the reason why data is not appearing on the Grafana dashboard after July 17. Please refer to the screenshot below for reference.
 
