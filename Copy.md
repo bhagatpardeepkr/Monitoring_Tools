@@ -1,12 +1,4 @@
 
-Well done, team! Your effort and teamwork led to the successful completion of this task. Let's keep up the good work as each step contributes to our progress. Thank you all for your hard work!
-
-
-
-
-
-
-
 
 
 Our CD tools team doesn't raise any Jira issues for the Network team. Therefore, please raise the Jira issue with the Network Engineering team. If they require any assistance or details from us, we will be more than happy to help
