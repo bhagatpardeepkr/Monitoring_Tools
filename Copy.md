@@ -2,6 +2,10 @@ As a Dynatrace admin, to dig deep into an issue, you can ask the user to provide
 
 From your document
 
+Detailed Description: A brief description of the issue, including any error messages or unusual behavior observed.
+Time Frame: The specific time frame during which the issue occurred.
+Environment Details: Information about the environment where the issue is occurring, such as the type of servers, operating systems, and relevant configurations.
+
 Detailed Description of the Issue: Ask the user to provide a detailed description of the issue they are experiencing, including any error messages or unusual behavior they have observed1.
 Screenshots or Images: Request screenshots or images that show the issue, as these can help in understanding the problem better1.
 Time Frame: Ask for the specific time frame during which the issue occurred. This can help in correlating the issue with any events or changes that might have happened during that period1.
