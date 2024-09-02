@@ -1,3 +1,6 @@
+| sort - _time
+| table _time, pod, log
+
 As a Dynatrace admin, to dig deep into an issue, you can ask the user to provide the following information:
 
 From your document
