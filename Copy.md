@@ -2,3 +2,5 @@ When experiencing performance issues with Dynatrace's multidimensional analysis 
 
 
 I would encourage you to please update the vendor ticket directly instead of posting messages in Jira, as it helps to fix the issue faster.
+
+I think it's better if we document the escalations with priorities such as P1, P2, P3, etc., and distinguish between Non-Prod and Prod environments. We should escalate to the EJ SMEs only when we have a high-priority ticket in the Prod environment, instead of lower-priority or Dev environments.
