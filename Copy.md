@@ -1,3 +1,5 @@
+Implementation of the Three-Strike Rule for JIRA Tickets Starting Tomorrow
+
 Dear [Manager's Name],
 
 I hope this message finds you well.
