@@ -1,1 +1,11 @@
-In the 3 strike rule, we have to ensure: (1st strike) that once we post a comment on Jira at the very initial stage, (2nd strike) we give an official gentle reminder after 24 hours, and (3rd strike) we can close the ticket after another 24 hours by mentioning, 'Feel free to reopen the Jira if you still need any assistance on this matter.
+Dear [Manager's Name],
+
+I hope this message finds you well.
+
+As discussed in today's DSU meeting, Gaurav confirmed that we have received approval from Stephen to implement the three-strike rule. Therefore, starting from tomorrow, we will begin applying this rule to our JIRA ticket handling process.
+
+Below is the detailed process:
+
+[Include detailed process here]
+
+Thank you and looking forward to a smooth implementation.
