@@ -1,13 +1,19 @@
-Implementation of the Three-Strike Rule for JIRA Tickets Starting Tomorrow
+Subject: Immediate Implementation of the Three-Strike Process for JIRA Tickets
 
-Dear [Manager's Name],
+Dear Team,
 
-I hope this message finds you well.
+I hope this email finds you all in good health and high spirits.
 
-As discussed in today's DSU meeting, Gaurav confirmed that we have received approval from Stephen to implement the three-strike rule. Therefore, starting from tomorrow, we will begin applying this rule to our JIRA ticket handling process.
+Effective immediately, we are implementing the three-strike rule for managing our JIRA tickets. This decision was finalized in our recent DSU meeting, following approval from leadership.
 
-Below is the detailed process:
+Here’s a brief overview of the three-strike process:
 
-[Include detailed process here]
+[Insert detailed process here]
 
-Thank you and looking forward to a smooth implementation.
+It is essential for everyone to familiarize themselves with this new procedure and start following it from today. Should you have any questions or require further clarification, please do not hesitate to reach out.
+
+Thank you for your attention to this matter and for your continued cooperation.
+
+Best regards,
+
+[Your Name] [Your J
