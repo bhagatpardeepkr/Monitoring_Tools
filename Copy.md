@@ -1,1 +1,3 @@
-I am currently experiencing an issue with my ServiceNow account, where I am unable to open any incidents or tickets. Previously, it was functioning properly. As I am the on-call engineer, could you please prioritize checking and resolving this issue?
+could you please provide the requested information or update us on the status at your earliest convenience?
+
+Your prompt response will be greatly appreciated and will help us expedite the resolution process. If you have any questions or concerns, feel free to reach out.
