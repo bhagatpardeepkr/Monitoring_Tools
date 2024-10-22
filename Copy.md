@@ -1,1 +1,1 @@
-We have completed the upgrade on the production Dynatrace cluster. For post-validation, could you please check if everything is good on your end?
+Can you confirm when you are available for 30 minutes any day this week? I would like to schedule a call with you and Revathi to introduce you both and to discuss some insights regarding Revathi's tasks.
