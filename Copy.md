@@ -1,13 +1,15 @@
-Proposed Solution and Next Steps
+Current Progress Update
 
-Features of the Unified Dashboard:
+Proof of Concept (PoC) Dashboard:
 
-Integration: Combines metrics from Splunk, Dynatrace, and Grafana for a unified view.
-Enhanced Visualization: Employs graphs, charts, and alerts for better data interpretation.
-User-Friendly Interface: Simplifies navigation, making critical information more accessible.
-Demo Preview:
+Integration Achieved: Our PoC dashboard successfully aggregates data from various servers across Splunk, Grafana, and Dynatrace.
+Dashboard Link: Click here to view the dashboard. (Note: Replace "#" with the actual link)
+Metrics Being Monitored:
 
-Showcasing the Grafana Dashboard: Demonstrates key functionalities and how they address existing challenges.
-Continuous Improvement:
+System Performance: Currently tracking CPU, memory, network activity, disk usage, and user log-ins.
+Development Stage:
 
-Future Enhancements: Commitment to refine and enhance features continually based on user feedback.
+Testing Phase: Ongoing testing in a development-only environment to ensure stability and performance.
+Future Enhancements:
+
+SRE Golden Signals: In the process of incorporating key SRE golden signal metrics for improved system monitoring.
