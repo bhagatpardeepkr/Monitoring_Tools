@@ -1,11 +1,12 @@
-Centralized Monitoring:
-Integrate Grafana, Splunk, and Dynatrace into a single dashboard, streamlining health checks and enhancing system oversight.
+Current Monitoring Methodology and Challenges
 
-Streamlined Operations:
-Simplify the monitoring process with centralized data, improving manageability and accessibility to vital health information.
+Previous Approach:
 
-Enhanced Visibility:
-Obtain real-time, detailed performance insights across all platforms through sophisticated data visualization techniques.
+Health Monitoring via Separate Dashboards: Previously leveraged individual dashboards for Splunk, Grafana, and Dynatrace within Grafana, complicating access and management.
+Current Issues:
 
-Increased Efficiency:
-Transition from multiple, lengthy health check documents to one efficient, unified management system, saving time and resources.
+Observing Multiple Metrics Across Various Hosts/Servers: Monitoring assorted metrics for different technological stacks, significantly increasing time consumption.
+Challenges Identified:
+
+Fragmented Data Access: Difficulty in swiftly navigating between separate dashboards to gather insights.
+Increased Troubleshooting Time: Problems in pinpointing issues due to non-integrated data views.
