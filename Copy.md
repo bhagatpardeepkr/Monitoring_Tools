@@ -1,12 +1,17 @@
-Current Monitoring Methodology and Challenges
+Exploring Existing Dashboards
 
-Previous Approach:
+Key Metrics Monitored:
 
-Health Monitoring via Separate Dashboards: Previously leveraged individual dashboards for Splunk, Grafana, and Dynatrace within Grafana, complicating access and management.
-Current Issues:
+Latency: Measures the time required to process requests.
+Traffic: Quantifies incoming and outgoing data volumes.
+CPU Usage: Monitors processor activities and utilization percentages.
+Memory Usage: Tracks the amount of RAM currently in use.
+Disk Space: Evaluates the utilization of available versus occupied disk space.
+I/O Utilization: Analyzes the efficiency of input/output operations.
+Data Sources Used:
 
-Observing Multiple Metrics Across Various Hosts/Servers: Monitoring assorted metrics for different technological stacks, significantly increasing time consumption.
-Challenges Identified:
+Prometheus: Used for the collection and storage of metrics.
+Graphite: Provides in-depth time series analytics.
+Current Observations:
 
-Fragmented Data Access: Difficulty in swiftly navigating between separate dashboards to gather insights.
-Increased Troubleshooting Time: Problems in pinpointing issues due to non-integrated data views.
+Insights from Health Check Documents: Provides an overview of system health and identifies performance bottlenecks.
