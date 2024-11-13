@@ -1,1 +1,1 @@
-A questionnaire tracker has been created for the CD-Tools support call with EJ SMEs, which is scheduled for every Wednesday and Friday. Please prepare all your queries prior to the meeting to facilitate easier discussion and aid in remembering the queries.
+It seems the issue is still not fixed. Could you please check this as a priority? Alternatively, I would appreciate it if we could discuss this over a bridge call and resolve it ASAP.
