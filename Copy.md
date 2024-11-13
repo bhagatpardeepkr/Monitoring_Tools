@@ -1,1 +1,1 @@
-It seems the issue is still not fixed. Could you please check this as a priority? Alternatively, I would appreciate it if we could discuss this over a bridge call and resolve it ASAP.
+After the discussion with Duke, we have decided to upgrade the app instead of uninstalling it. Consequently, we have scheduled the change for November 15th.
