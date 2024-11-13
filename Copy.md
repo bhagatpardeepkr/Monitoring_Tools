@@ -1,1 +1,1 @@
-After the discussion with Duke, we have decided to upgrade the app instead of uninstalling it. Consequently, we have scheduled the change for November 15th.
+As per the last comment, this issue requires intervention from the development team to fix the code. Please let us know if you need any help from our side.
