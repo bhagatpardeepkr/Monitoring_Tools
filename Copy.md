@@ -1,1 +1,1 @@
-As per the last comment, this issue requires intervention from the development team to fix the code. Please let us know if you need any help from our side.
+I have reassigned this change to Ponish and worked with him to prepare answers for all the questions asked by the CCR team for approval. We are now all set on our side with all queries addressed. For the CCR meeting, please approve the change request on your side first.
