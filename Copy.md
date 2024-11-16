@@ -1,1 +1,1 @@
-To enhance system reliability and streamline approval processes, it is crucial to incorporate basic health checks into the validation steps for Splunk after any changes. Standardizing responses in tool validation plans to include these checks can facilitate smoother CCR approvals. Additionally, as processes evolve, exploring automated solutions for health checks after changes can significantly improve efficiency and consistency
+We have successfully upgraded the Splunk Cloud Service app to version 5.4.1. Please find the attached screenshot below for your reference.
