@@ -1,1 +1,1 @@
-Would you be so kind as to provide some brief feedback via email regarding this demo? Your input would be immensely valuable and greatly appreciated. Thank you.
+I need some help from you. As you know, we have our EPAM support call with SMEs twice a week. In these calls, only Jonathan Duke has been joining. He has answered all our queries about Splunk, but could you please encourage other SMEs to join as well? We need someone from Dynatrace and Grafana to participate too
