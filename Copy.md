@@ -1,1 +1,1 @@
-I need some help from you. As you know, we have our EPAM support call with SMEs twice a week. In these calls, only Jonathan Duke has been joining. He has answered all our queries about Splunk, but could you please encourage other SMEs to join as well? We need someone from Dynatrace and Grafana to participate too
+Thank you for your kind words and recognition; your appreciation truly motivates me to achieve more!
