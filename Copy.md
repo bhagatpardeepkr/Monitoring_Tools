@@ -1,1 +1,1 @@
-I would appreciate it if you could please schedule a call with the SNOW team, as I have another query as well.
+I have created the roster for December, excluding Kan after November 15th and including the offshore team for on-call shifts at night on both weekdays and weekends. Please review it and let me know if any corrections are needed.
