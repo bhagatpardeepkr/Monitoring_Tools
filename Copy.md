@@ -1,1 +1,1 @@
-I have created the roster for December, excluding Kan after November 15th and including the offshore team for on-call shifts at night on both weekdays and weekends. Please review it and let me know if any corrections are needed.
+Today we have a support call. Below are the queries that we have documented. Please review them and join the call if possible.
