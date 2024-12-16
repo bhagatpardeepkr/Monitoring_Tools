@@ -1,1 +1,1 @@
-Today, we have the support call here is  the query tracker, where we have also mentioned the name of the SME who can join the call and share their thoughts on the same. Please join us.
+We have created the DevOps query register to track all the queries where we need help from SMEs. Can we get more participation from the SMEs' side? Mostly, Jonathan joins the call and answers Splunk-related queries, but it would be good if we could also get someone from Dynatrace.
