@@ -1,1 +1,1 @@
-We receive pager alerts only for P1/P2 priority issues.
+Please ensure that you prioritize and review your tickets daily. Promptly address any user comments on pending tickets. Additionally, it is imperative to conduct and document your initial analysis on the same day a ticket is assigned to you, rather than postponing updates to the following day.
