@@ -1,1 +1,1 @@
-This document outlines the escalation process for handling tickets that require higher involvement or may evolve into projects. It is designed to ensure timely and effective resolution while leveraging the appropriate tools managed by the SRE CD team: Splunk, Dynatrace, and Grafana. Note: This is only applicable to the EPAM CD-Tools Contractors.
+We receive pager alerts only for P1/P2 priority issues.
