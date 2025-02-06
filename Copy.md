@@ -1,7 +1,1 @@
-Grafana Unified Dashboard: Stephen appreciated the work.
-
-Next Steps:
-
-As Grafana will be deprecated in the near future, we must implement the same features in Dynatrace for all the tools.
-Ensure that the server details are up to date on the dashboard.
-Going forward, we need to configure the alerts.
+This document outlines the escalation process for handling tickets that require higher involvement or may evolve into projects. It is designed to ensure timely and effective resolution while leveraging the appropriate tools managed by the SRE CD team: Splunk, Dynatrace, and Grafana. Note: This is only applicable to the EPAM CD-Tools Contractors.
