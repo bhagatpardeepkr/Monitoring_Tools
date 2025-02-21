@@ -1,1 +1,3 @@
-Please ensure that you prioritize and review your tickets daily. Promptly address any user comments on pending tickets. Additionally, it is imperative to conduct and document your initial analysis on the same day a ticket is assigned to you, rather than postponing updates to the following day.
+This issue is not originating from our side; MQ is the data source that sends data to Grafana. In this incident, our Grafana was operational and functioning properly without any issues, as it is being managed by the CD-Tools team. For issues related to MQ alerting and monitoring, please consult the SRE team or the application team that utilizes this data source.
+
+Below are the steps we have taken to address the issue...
