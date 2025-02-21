@@ -1,3 +1,1 @@
-This issue is not originating from our side; MQ is the data source that sends data to Grafana. In this incident, our Grafana was operational and functioning properly without any issues, as it is being managed by the CD-Tools team. For issues related to MQ alerting and monitoring, please consult the SRE team or the application team that utilizes this data source.
-
-Below are the steps we have taken to address the issue...
+Today, we don't have any queries except the ones that Satyam has posted on Dynamites, so we canceled today's support call. Have a happy weekend!
