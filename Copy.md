@@ -1,1 +1,1 @@
-Today, we don't have any queries except the ones that Satyam has posted on Dynamites, so we canceled today's support call. Have a happy weekend!
+Please disregard this alert as it pertains to the Unified Dashboard developed by the EPAM team. Currently, we are in the process of establishing an alerting profile for several metrics to understand how to set up alerts for the active gate group in Dynatrace.
