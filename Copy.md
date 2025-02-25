@@ -1,1 +1,1 @@
-Please disregard this alert as it pertains to the Unified Dashboard developed by the EPAM team. Currently, we are in the process of establishing an alerting profile for several metrics to understand how to set up alerts for the active gate group in Dynatrace.
+The purpose of this document is to assist the command center team in identifying problems in Dynatrace and directing them to the appropriate owner. Below, you will find a step-by-step procedure on how to identify the right owner using tags, management zones (MZ), host groups, and other relevant criteria
