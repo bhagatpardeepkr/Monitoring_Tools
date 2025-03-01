@@ -1,1 +1,3 @@
-The purpose of this document is to assist the command center team in identifying problems in Dynatrace and directing them to the appropriate owner. Below, you will find a step-by-step procedure on how to identify the right owner using tags, management zones (MZ), host groups, and other relevant criteria
+
+
+EPAM’s Central Resource for Documentation, Knowledge Base Articles, and Procedures in L2/L3 Support Roles
