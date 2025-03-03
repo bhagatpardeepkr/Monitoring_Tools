@@ -1,3 +1,5 @@
+In this case, I cannot directly say it is our mistake because we currently lack a process where we implement changes first on development/clone environments and then on production. We have a global setting in our Git repository where we implement everything across all environments simultaneously; there are no pre and post checks for applications to verify changes. Overall, I can say that it’s due to a process that was not accurately implemented. We have made the same changes for 20+ applications, and they were successfully implemented without any issues. Here, the issue arose due to the application behavior where Dynatrace broke due to RUM enablement.
 
+The only point is that the application broke when we implemented the RUM enablement. The process requires creating a PR, which then Alu Abhijeet has to review/approve. After approval, the changes can be pushed to the main branch.
 
-EPAM’s Central Resource for Documentation, Knowledge Base Articles, and Procedures in L2/L3 Support Roles
+Next plan of action: Alu Abhijeet is creating the Terraform code. He is attempting to refine it or segregate the implementation by environment, so it does not directly affect all environments.
