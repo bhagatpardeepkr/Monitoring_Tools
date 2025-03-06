@@ -1,3 +1,1 @@
-As discussed over the call with Gaurav, please find the timeline below for the issue related to the RITM request.
-
-This issue is not pending on our side; it's pending on the SME's side.
+Can you please share the latest updates on RUM & MZ? We have a lot of tickets pending where the requester needs help. I would appreciate it if you could add your comments to the sheet.
