@@ -1,1 +1,1 @@
-In this case, Abhijeet fixed the Terraform code today, and we are expecting to receive the approval tomorrow to start working on the MZ and RUM enabling tickets. This is the reason the ticket has been on hold since last week.
+Due to the freeze, we are not implementing any changes in production until 4/17. However, the tentative date for the execution of these changes is 4/28. The required changes have already been created, and we will update you before the execution date.
