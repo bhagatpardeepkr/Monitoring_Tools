@@ -1,8 +1,1 @@
-
-As you are already aware of this case, the user is continuously following up to expedite the completion of the NON-Edward Jones onboarding in RUM enablement. Could you please provide the ETA so we can share it with the user? Meanwhile, we will ask the user to create the SCTASK for MZ creation in parallel.
-
-
-Can we proceed with MZ creation for the user's request using the same code?
-Regarding RUM enablement, I see that the code has been fixed, and we now have separate codes for Pre-Prod and Prod environments.
-Can we start onboarding the user for RUM enablement in the non-prod environment without requiring a CR?
-For the production environment, we will create a change request (CR) and proceed with the same process.
+In this case, Abhijeet fixed the Terraform code today, and we are expecting to receive the approval tomorrow to start working on the MZ and RUM enabling tickets. This is the reason the ticket has been on hold since last week.
