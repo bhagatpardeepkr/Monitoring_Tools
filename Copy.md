@@ -1,1 +1,1 @@
-echo | openssl s_client -connect <domain>:443 2>/dev/null | openssl x509 -noout -dates
+I see that there is still no progress on the CTASK for this change. I have already pinged every user individually to close the CTASK. However, going forward, please ensure that we ask users to close the CTASK immediately after the implementation time. Otherwise, this will act as a blocker for us and prevent us from moving the change request to the review state. Additionally, we keep receiving reminders from ITSM tools if we don't change the status from implementation to review
