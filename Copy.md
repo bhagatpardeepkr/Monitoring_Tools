@@ -1,1 +1,2 @@
-It was delayed because we have been following up with users on a daily basis. However, some users close it on time, while others do not have a ServiceNow (SNOW) account to validate the CTASK. Now, we have asked users to share the status over the original Jira request only, and we will close the CTASK on their behalf by assigning it to ourselves.
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
