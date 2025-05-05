@@ -1,2 +1,1 @@
-export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
+https://edwardjones.zoom.us/j/96137959407?pwd=aFFVVGNONEplS2hBbERUR0tWektyUT09
