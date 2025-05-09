@@ -1,3 +1,1 @@
-As discussed with Stephen, we at EPAM have agreed to begin creating the change requests for RUM (Production) on our side. This decision was made because the users are facing significant difficulties when creating changes from their side, and they are unsure how to respond in CCR if any questions related to RUM onboarding are raised. Therefore, starting today, we will handle the creation of change requests for RUM Production changes and generate a CTASK for the users to validate, similar to the process used for Non-Production changes.
-
-In parallel, we are working on creating a standard change process for RUM. Once this standardized process is established, we will stop following the above interim approach, as it is only intended to be a temporary solution.
+Could you please provide an update on this? I noticed that the change window has been completed.
