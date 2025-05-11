@@ -1,1 +1,4 @@
-Could you please provide an update on this? I noticed that the change window has been completed.
+Original: Change has been implemented successfully.
+
+
+Original: CTASK associated with the change has been validated and closed.
