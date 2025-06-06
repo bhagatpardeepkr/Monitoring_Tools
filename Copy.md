@@ -1,5 +1,1 @@
-When you see the "Upcoming" state for a maintenance window in Dynatrace:
-
-It indicates that a maintenance period is scheduled for the future.
-All alerts and incident tracking for the selected entities will continue as normal until the maintenance window becomes Active (at the scheduled start time).
-Use the "Upcoming" period to review and prepare for the scheduled maintenance.
+"Sorry for the late-night message. We, as the EPAM CD-Tools team, are unable to log in to Dynatrace and are encountering a 400 error. If possible, could we roll back, or do you have any other comments or suggestions on this?"
