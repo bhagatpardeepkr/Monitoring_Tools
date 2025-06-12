@@ -1,1 +1,2 @@
-"Sorry for the late-night message. We, as the EPAM CD-Tools team, are unable to log in to Dynatrace and are encountering a 400 error. If possible, could we roll back, or do you have any other comments or suggestions on this?"
+
+index=k8s_logs k8s_env=prod kubernetes_deployment_name=gna-accounts-svc k8s_location-phx kubernetes_cluster-dkp-prod-phx-general method=* stats count as total_requests
