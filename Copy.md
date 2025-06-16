@@ -1,2 +1,1 @@
-
-index=k8s_logs k8s_env=prod kubernetes_deployment_name=gna-accounts-svc k8s_location-phx kubernetes_cluster-dkp-prod-phx-general method=* stats count as total_requests
+At the moment, we don’t have any epics or tickets on our end. However, as an early adopter of this, I’ve documented your tickets and details in the shared sheet. We’ll be sure to reach out to you once we start moving forward on our side.
