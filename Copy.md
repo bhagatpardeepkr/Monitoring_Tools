@@ -1,1 +1,2 @@
-At the moment, we don’t have any epics or tickets on our end. However, as an early adopter of this, I’ve documented your tickets and details in the shared sheet. We’ll be sure to reach out to you once we start moving forward on our side.
+Acknowledged, and I’ve replied to the original email.
+We already have confirmation from Jeff that this has been decommissioned. For your reference, the screenshot is attached below.
