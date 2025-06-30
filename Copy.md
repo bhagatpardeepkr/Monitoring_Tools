@@ -1,2 +1,1 @@
-Acknowledged, and I’ve replied to the original email.
-We already have confirmation from Jeff that this has been decommissioned. For your reference, the screenshot is attached below.
+I am planning to give a small demo on the SSL certificate dashboard that we have built on Dynatrace. Could you please confirm your availability this week for 15 minutes so we can proceed with the demo?"
