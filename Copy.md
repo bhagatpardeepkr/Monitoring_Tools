@@ -1,1 +1,1 @@
-I am planning to give a small demo on the SSL certificate dashboard that we have built on Dynatrace. Could you please confirm your availability this week for 15 minutes so we can proceed with the demo?"
+I don't think an invite is required. I will send the reminder invite. Please be available around that time. Once we onboard the rum to production, we will notify you to validate whether the rum is working or not.
