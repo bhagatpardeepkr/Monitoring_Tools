@@ -1,1 +1,1 @@
-I don't think an invite is required. I will send the reminder invite. Please be available around that time. Once we onboard the rum to production, we will notify you to validate whether the rum is working or not.
+This meeting is scheduled with Stephen to demo the SSL Certificate Dashboard on Dynatrace (Non-Prod).
