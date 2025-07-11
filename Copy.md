@@ -1,5 +1,6 @@
-Meeting Agenda
+We discussed the following points:
 
-Demo: SSL Certificate Dashboard (Dynatrace - Non-Prod)
-Collect Feedback/Suggestions
-Discuss Next Steps
+Why we created the Dynatrace dashboard for SSL certificate monitoring.
+Drawbacks of monitoring directly through the extension.
+Benefits of building a dashboard using the extension.
+Next steps we need to take moving forward.
