@@ -1,1 +1,1 @@
-This is not critical, but it is something we need to expedite from the application side. This is an exceptional case because, in the previous CR, we onboarded the RUM; however, the traffic was not coming through as RUM was disabled at the process group level. In the current CR, we are planning to enable the RUM. Since we identified some issues in UAT, we will re-schedule this CR and proceed once everything is resolved on Non-Prod. Thank you
+My recommendation is to first fix the issue on Dev/UAT, and once you are ready to give the sign-off, only then will we proceed with Prod
